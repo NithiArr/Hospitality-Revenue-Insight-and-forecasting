@@ -1,6 +1,6 @@
 # Hospitality Revenue Forecast and Insight
 
-Revenue of the Atliq Accomdation is forecasted using a time series model ARIMA. A insight dashboard was created with the help of Microsoft Power BI, to answer the recent revenue drop 
+Revenue of the Atliq Accomdation is forecasted using a time series model ARIMA. An insight dashboard was created with the help of Microsoft Power BI, to answer the recent revenue drop 
 
 
 # CREATED BY
