@@ -22,7 +22,7 @@ Dataset contain booking date,hotels and rooms as dimension tables and booking as
 
 
 # ScreenShot 
-<img src="">
+<img src="https://github.com/NithiArr/Hospitality-Revenue-Insight-and-forecasting/blob/master/Dashboard.png">
 
 
 
