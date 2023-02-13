@@ -25,7 +25,7 @@ Dataset contain booking date,hotels and rooms as dimension tables and booking as
 <img src="https://github.com/NithiArr/Hospitality-Revenue-Insight-and-forecasting/blob/master/Dashboard.png">
 
 # Link
-View my dashboards on online Microsoft Power BI [Link](https://app.powerbi.com/links/F5JUAvSkpd?ctid=a85a039e-1623-49b8-9ec5-1517941606ee&pbi_source=linkShare)
+View my dashboards on online Microsoft Power BI [Link](https://app.powerbi.com/viewr=eyJrIjoiNDFmNTUyYzktM2Y1Zi00ZThkLTljOGMtM2EwMzU1Nzk0NWE4IiwidCI6ImQ4Y2MxYTUzLTYzMWItNDU2Zi05NTY3LWRiZjEwNWY3MjQwOSJ9)
 
 
 
